@@ -1,0 +1,326 @@
+[
+  {
+    "id": "gabi",
+    "name": "Gabi Guimarães",
+    "fullName": "Gabriela Braga Guimarães",
+    "aliases": [
+      "Gabi",
+      "Gabriela Guimarães"
+    ],
+    "file": "Gabi, Grand Prix Łódź, Poland.jpg",
+    "author": "Zorro2212",
+    "license": "CC BY-SA 3.0",
+    "crop": [
+      0.575,
+      0.28,
+      0.45
+    ],
+    "photo": "photos/gabi.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Gabi%2C_Grand_Prix_%C5%81%C3%B3d%C5%BA%2C_Poland.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "ngapeth",
+    "name": "Earvin N’Gapeth",
+    "fullName": "Earvin N’Gapeth",
+    "aliases": [
+      "Ngapeth",
+      "Earvin N'Gapeth"
+    ],
+    "file": "Earvin N'Gapeth.JPG",
+    "author": "Maria Giulia Tolotti",
+    "license": "CC BY-SA 3.0",
+    "crop": [
+      0.46,
+      0.29,
+      0.68
+    ],
+    "photo": "photos/ngapeth.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Earvin_N'Gapeth.JPG",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "giba",
+    "name": "Giba",
+    "fullName": "Gilberto Amauri de Godoy Filho",
+    "aliases": [
+      "Gilberto Godoy Filho"
+    ],
+    "file": "Giba.JPG",
+    "author": "shaka (recorte: Capmo)",
+    "license": "CC BY-SA 2.0 Itália",
+    "crop": [
+      0.54,
+      0.13,
+      0.44
+    ],
+    "photo": "photos/giba.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/it/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Giba.JPG",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "zhu",
+    "name": "Zhu Ting",
+    "fullName": "Zhu Ting",
+    "aliases": [
+      "Ting Zhu"
+    ],
+    "file": "Zhu Ting 2016 (cropped).jpg",
+    "author": "Sakhalinio (recorte: Zafer)",
+    "license": "CC BY-SA 4.0",
+    "crop": [
+      0.5,
+      0.25,
+      0.72
+    ],
+    "photo": "photos/zhu.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Zhu_Ting_2016_(cropped).jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "sheilla",
+    "name": "Sheilla Castro",
+    "fullName": "Sheilla Tavares de Castro",
+    "aliases": [
+      "Sheilla",
+      "Sheila Castro"
+    ],
+    "file": "Sheilla Castro no Minas 2002.jpg",
+    "author": "Krapto",
+    "license": "CC BY 4.0",
+    "crop": [
+      0.55,
+      0.22,
+      0.56
+    ],
+    "photo": "photos/sheilla.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Sheilla_Castro_no_Minas_2002.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "bruno",
+    "name": "Bruno Rezende",
+    "fullName": "Bruno Mossa de Rezende",
+    "aliases": [
+      "Bruninho"
+    ],
+    "file": "Bruno Rezende2.jpg",
+    "author": "Bigsofo",
+    "license": "CC BY-SA 3.0",
+    "crop": [
+      0.5,
+      0.48,
+      0.96
+    ],
+    "photo": "photos/bruno.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Bruno_Rezende2.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "kim",
+    "name": "Kim Yeon-koung",
+    "fullName": "Kim Yeon-koung",
+    "aliases": [
+      "Kim Yeon-kyung",
+      "Yeon Koung Kim"
+    ],
+    "file": "월드그랑프리2 (8).jpg",
+    "author": "매맞는고참 / NOH DEOK KEUN",
+    "license": "CC BY 4.0",
+    "crop": [
+      0.5,
+      0.37,
+      0.4
+    ],
+    "photo": "photos/kim-2014.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:%EC%9B%94%EB%93%9C%EA%B7%B8%EB%9E%91%ED%94%84%EB%A6%AC2_(8).jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "serginho",
+    "name": "Serginho",
+    "fullName": "Sérgio Dutra Santos",
+    "aliases": [
+      "Escadinha",
+      "Sérgio Santos",
+      "Sergio Santos"
+    ],
+    "file": "Sérgio Santos Rio 2016cr.jpg",
+    "author": "Fernando Frazão/Agência Brasil (recorte: Materialscientist)",
+    "license": "CC BY 3.0 Brasil",
+    "crop": [
+      0.54,
+      0.29,
+      0.55
+    ],
+    "photo": "photos/serginho.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:S%C3%A9rgio_Santos_Rio_2016cr.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "jaqueline",
+    "name": "Jaqueline Carvalho",
+    "fullName": "Jaqueline Maria Pereira de Carvalho",
+    "aliases": [
+      "Jaque",
+      "Jaqueline"
+    ],
+    "file": "Jaqueline Cropped.jpg",
+    "author": "Roosewelt Pinheiro/Agência Brasil (recorte: Mwaldeck)",
+    "license": "CC BY 3.0 Brasil",
+    "crop": [
+      0.5,
+      0.35,
+      1
+    ],
+    "photo": "photos/jaqueline.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Jaqueline_Cropped.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "thaisa",
+    "name": "Thaísa Menezes",
+    "fullName": "Thaísa Daher de Menezes",
+    "aliases": [
+      "Thaísa",
+      "Thaisa"
+    ],
+    "file": "Thaisa Cropped.jpg",
+    "author": "Roosewelt Pinheiro/Agência Brasil",
+    "license": "CC BY 3.0 Brasil",
+    "crop": [
+      0.5,
+      0.39,
+      1
+    ],
+    "photo": "photos/thaisa.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Thaisa_Cropped.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "garay",
+    "name": "Fernanda Garay",
+    "fullName": "Fernanda Garay Rodrigues",
+    "aliases": [
+      "Fê Garay",
+      "Fe Garay"
+    ],
+    "file": "Fê garay.png",
+    "author": "Murilodias",
+    "license": "CC BY-SA 3.0",
+    "crop": [
+      0.56,
+      0.28,
+      0.62
+    ],
+    "photo": "photos/garay.png",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:F%C3%AA_garay.png",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "lang",
+    "name": "Lang Ping",
+    "fullName": "Lang Ping",
+    "aliases": [
+      "Jenny Lang Ping"
+    ],
+    "file": "Lang Ping - 2021.jpg",
+    "author": "Fjn219",
+    "license": "CC BY-SA 4.0",
+    "crop": [
+      0.5,
+      0.39,
+      0.92
+    ],
+    "photo": "photos/lang.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Lang_Ping_-_2021.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "kurek",
+    "name": "Bartosz Kurek",
+    "fullName": "Bartosz Kurek",
+    "aliases": [
+      "Kurek"
+    ],
+    "file": "Bartosz Kurek 2012.jpg",
+    "author": "Anna Kłeczek (Nula)",
+    "license": "CC BY-SA 3.0",
+    "crop": [
+      0.51,
+      0.39,
+      0.95
+    ],
+    "photo": "photos/kurek-2012.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Bartosz_Kurek_2012.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "ivan",
+    "name": "Ivan Zaytsev",
+    "fullName": "Ivan Zaytsev",
+    "aliases": [
+      "Zaytsev"
+    ],
+    "file": "Ivan Zaytsev.jpg",
+    "author": "Maria Giulia Tolotti",
+    "license": "CC BY-SA 3.0",
+    "crop": [
+      0.43,
+      0.33,
+      0.65
+    ],
+    "photo": "photos/ivan.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Ivan_Zaytsev.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  },
+  {
+    "id": "saori",
+    "name": "Saori Kimura",
+    "fullName": "Saori Kimura",
+    "aliases": [
+      "Kimura Saori"
+    ],
+    "file": "Saori Kimura.jpg",
+    "author": "m-louis",
+    "license": "CC BY-SA 2.0",
+    "crop": [
+      0.46,
+      0.265,
+      0.34
+    ],
+    "photo": "photos/saori.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "verified": "2026-10-14",
+    "identitySource": "https://commons.wikimedia.org/wiki/File:Saori_Kimura.jpg",
+    "changes": "Recorte quadrado em canvas e pixelização progressiva; original local preservado. As adaptações da imagem mantêm a licença indicada."
+  }
+]
