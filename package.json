@@ -1,0 +1,24 @@
+{
+    "name":  "quem-ta-na-quadra",
+    "version":  "1.0.0",
+    "private":  true,
+    "type":  "module",
+    "scripts":  {
+                    "dev":  "vite --host 127.0.0.1",
+                    "build":  "node scripts/check-encoding.mjs \u0026\u0026 tsc -b \u0026\u0026 vite build",
+                    "test":  "vitest run",
+                    "check:encoding":  "node scripts/check-encoding.mjs"
+                },
+    "dependencies":  {
+                         "react":  "^19.2.0",
+                         "react-dom":  "^19.2.0"
+                     },
+    "devDependencies":  {
+                            "@types/react":  "^19.2.0",
+                            "@types/react-dom":  "^19.2.0",
+                            "jsdom":  "^27.4.0",
+                            "typescript":  "^5.9.3",
+                            "vite":  "^7.1.0",
+                            "vitest":  "^5.0.4"
+                        }
+}
