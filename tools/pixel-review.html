@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Revisão local · Quem Tá na Quadra?</title>
+    <style>
+      *{box-sizing:border-box}body{margin:0;background:#10110e;color:#f1f0e9;font:14px/1.5 system-ui,sans-serif}header{padding:24px;position:sticky;top:0;background:#10110e;z-index:1;border-bottom:1px solid #555}h1{font-size:24px;margin:0 0 8px}p{margin:6px 0;color:#bfc3b4}label{margin-right:12px}select{padding:8px;background:#252b1b;color:white;border:1px solid #7a875d}section{padding:24px;border-bottom:1px solid #3b4132}h2{margin:0;font-size:18px}.strip{display:flex;gap:12px;overflow:auto;padding:16px 0}figure{margin:0;flex:none}canvas{display:block;border:1px solid #eaff36;width:var(--photo-size,200px);height:var(--photo-size,200px);image-rendering:pixelated}figure:last-child canvas{image-rendering:auto}figcaption{margin-top:6px;color:#eaff36;font-size:12px}.note{max-width:720px;font-size:12px}.credits{font-size:11px;color:#bfc3b4}a{color:#eaff36}
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Revisão de reconhecimento visual</h1>
+      <p>Ferramenta local de desenvolvimento. Não integra o build público. Contém todas as respostas.</p>
+      <label for="size">Tamanho da fotografia:</label>
+      <select id="size"><option value="200">Comparação compacta · 200 px</option><option value="302">Celular · tela 360 px</option><option value="324">Celular · tela 390 px</option><option value="474">Tablet · tela 768 px</option><option value="495">Desktop · tela 1280 px</option></select>
+      <p class="note">Cada linha usa exatamente o catálogo, recorte e função de canvas do jogo. Compare olhos, cabelo, contorno do rosto e ombros. Arraste horizontalmente para ver os seis níveis e o original no mesmo tamanho. Não há blur ou ajuste de dificuldade pelo jogador.</p>
+    </header>
+    <main id="review"></main>
+    <script type="module" src="./pixel-review.ts"></script>
+  </body>
+</html>

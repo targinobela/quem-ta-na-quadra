@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Revisão responsiva local</title>
+<style>body{background:#10110e;color:#f1f0e9;font:14px system-ui;margin:24px}h1{font-size:24px}p{color:#bfc3b4}select{padding:8px;background:#252b1b;color:white}iframe{display:block;border:1px solid #eaff36;max-width:none;height:1700px;background:#10110e;margin-top:20px}pre{white-space:pre-wrap;color:#eaff36}a{color:#eaff36}</style></head>
+<body><h1>Revisão responsiva · somente local</h1><p>Fixture isolada: não lê nem altera o progresso do jogo. Confira os quatro tamanhos, sugestões abertas e resultados. A largura do iframe é a largura da viewport testada.</p>
+<label>Largura <select id="width"><option>360</option><option>390</option><option>768</option><option>1280</option></select></label>
+<label>Estado <select id="state"><option value="suggestions">Sugestões abertas</option><option value="won">Vitória</option><option value="lost">Derrota</option><option value="initial">Primeira tentativa</option></select></label>
+<p><a href="./pixel-review.html">Comparar recortes e os seis níveis ↗</a></p><pre id="checks">Aguardando a fixture…</pre><div style="overflow-x:auto"><iframe id="frame" title="Jogo no tamanho selecionado"></iframe></div>
+<script type="module">
+if(!import.meta.env.DEV)throw Error('Ferramenta local apenas.');
+const width=document.querySelector('#width'),state=document.querySelector('#state'),frame=document.querySelector('#frame');
+function update(){frame.style.width=width.value+'px';frame.src='./layout-fixture.html?state='+state.value;document.querySelector('#checks').textContent='Aguardando a fixture…';}
+width.addEventListener('change',update);state.addEventListener('change',update);
+window.addEventListener('message',event=>{if(event.origin!==location.origin||event.source!==frame.contentWindow||event.data.type!=='quadra-layout-review')return;const d=event.data;document.querySelector('#checks').textContent=JSON.stringify(d,null,2);});update();
+</script></body></html>
